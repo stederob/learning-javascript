@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Tavola Pitagorica</title>
+</head>
+
+<body>
+<tr><script src="es1.js"></script></tr>
+<tr><script src="es2.js"></script></tr>
+<tr><script src="es3.js"></script></tr>
+</body>
+
+</html>
