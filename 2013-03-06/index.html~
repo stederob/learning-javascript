@@ -1,13 +1,25 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Tavola Pitagorica</title>
+<title>06 marzo 2013</title>
 </head>
 
 <body>
-<tr><script src="es1.js"></script></tr>
-<tr><script src="es2.js"></script></tr>
-<tr><script src="es3.js"></script></tr>
+
+<h1>Esercizio 1</h1>
+<br>
+    <script type="text/javascript" src="es1.js"></script></br>
+<br>
+
+<h1>Esercizio2</h1></br>
+<br>
+    <script type="text/javascript" src="es2.js"></script></br>
+<br>
+<h1>Esercizio3</h1>
+</br>
+<br>
+    <script type="text/javascript" src="es3.js"></script>
+</br>
 </body>
 
 </html>
