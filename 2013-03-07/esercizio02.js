@@ -1,13 +1,9 @@
-function fibonacci(n){
-var a=1;
-var b=1;
-var somma;
-for(i=2; i<n; i++){
-   somma = a+b;
-   a= b;
-   b= somma;
+function fibonacci (n) {
+  if (!(n in fibonacci)) {
+    fibonacci[n] = fibonacci(n-1) + fibonacci(n - 2);
+  }
+  return fibonacci[n];
 }
-fibonacci[1]=1;
-fibonacci[2]=1;
-return b;
-}
+
+fibonacci[0] = 0
+fibonacci[1] = 1
